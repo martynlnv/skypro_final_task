@@ -14,16 +14,16 @@ body {
 
 .icons>a {
 	text-decoration: none;
-	color: darkgray;
+	color: darkgrey;
 }
 
 .location>a {
 	text-decoration: none;
-	color: white;
+	color: rgb(251, 188, 244);
 }
 
 .location:hover {
-	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+	box-shadow: 0 8px 16px rgba (0, 0, 0, 0.2);
 }
 
 
@@ -67,7 +67,7 @@ body {
 	.subtitle {
 		text-align: center;
 		font-size: 1.5em;
-		color: darkgray;
+		color: red;
 	}
 	.icons {
 		font-size: 18px;
@@ -269,7 +269,7 @@ body {
 	.subtitle {
 		text-align: center;
 		font-size: 2em;
-		color: darkgray;
+		color:red;
 	}
 	.icons {
 		font-size: 15px;
